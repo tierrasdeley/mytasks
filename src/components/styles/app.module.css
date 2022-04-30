@@ -1,0 +1,46 @@
+.App {
+    width: 100%;
+    height: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    margin: 2.5% auto;
+     width: 50%;
+    font-family: 'Roboto', cursive;
+    font-size: 2.8em;
+    font-weight: 300;
+}
+
+.userImg {
+    width: 40%;
+    float: left;
+}
+
+.userImg img {
+    border-radius: 50px;
+}
+
+.headerOptions {
+    float: left;
+    width: 50%;
+    text-align: right;
+    padding: 3%;
+}
+
+.headerOptionsIcon {
+    cursor: pointer;
+    margin-left: 9px;
+    color: black;
+    font-size: 0.8em;
+}
+
+.taskContainer {
+    margin: -30px auto;
+    align-content: center;
+    width: 50%;
+    height: auto;
+}

@@ -1,0 +1,20 @@
+.task {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 10%;
+}
+
+.singleTask {
+    border: 1px solid black;
+    margin-bottom: 2%;
+}
+
+.taskTitle {
+    font-size: 2em;
+    width: 100%;
+}
+
+.taskContent {
+    font-size: 1.3em;
+}
