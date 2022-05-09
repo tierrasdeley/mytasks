@@ -10,6 +10,12 @@
     margin-bottom: 2%;
 }
 
+.taskDate {
+    position: relative;
+    text-align: right;
+    opacity: 40%;
+}
+
 .taskTitle {
     font-size: 2em;
     width: 100%;
@@ -18,3 +24,8 @@
 .taskContent {
     font-size: 1.3em;
 }
+
+.taskOptions {
+    position: relative;
+    text-align: right;
+    }

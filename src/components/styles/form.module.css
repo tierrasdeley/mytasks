@@ -2,15 +2,41 @@
 .form {
     width: 100%;
     max-width: 600px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
+}
+
+.formContainer {
+    float: left;
+    margin-bottom: 10px;
 }
 
 .textField {
-    width: 300px;
+    width: 180px;
+}
+
+.textFieldContent {
+    width: 300%;
+}
+
+.sendButton {
+    margin-top: 10px;
+
+    margin-bottom: 40px;
+    margin-left: 63%;
+    width: auto;
+    float: left;
 }
 
 button {
     border: none;
     background: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.divider {
+    margin-top: 100px;
 }
 
